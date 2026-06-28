@@ -1,7 +1,7 @@
 {
   description = "Properly format SD cards under Linux.";
   inputs = {
-    nixpkgs.url = "github:NixOs/nixpkgs/nixos-25.11";
+    nixpkgs.url = "github:NixOs/nixpkgs/nixos-26.05";
   };
   outputs =
     { nixpkgs, ... }:
